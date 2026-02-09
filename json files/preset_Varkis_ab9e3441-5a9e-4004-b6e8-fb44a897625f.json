@@ -1,0 +1,265 @@
+{
+    "Author": "Jadeci",
+    "Data": {
+        "CCAppearance": {
+            "AccessorySet": "",
+            "AdditionalChoices": [
+                0.0,
+                1.0,
+                0.0,
+                0.12999999523162842
+            ],
+            "Elements": [
+                {
+                    "Color": "8f8019ae-4c7d-4871-8479-1219fbf6ba7e",
+                    "ColorIntensity": 0.1505943238735199,
+                    "GlossyTint": 1.0,
+                    "Material": "5af4e969-f261-4ec1-9fc4-156bc0de2daf",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "2d0b5625-5820-4e1e-a239-7c1ccfc2e1a0",
+                    "ColorIntensity": 0.2916482985019684,
+                    "GlossyTint": 0.0,
+                    "Material": "66470b0a-6d9a-4b21-a3d7-d8f7179eb24d",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "18163570-2e19-4884-9bf8-eaf7dcdbdc6d",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "fe1f35b0-d07c-47ac-8f8e-8488d7b3410c",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "d9581f8d-030b-88c1-3cf4-d8aacf80f26a",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "dbf4ab14-44c2-4ef9-b8be-35d1dfdd1c0f",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "f95cb395-a531-703a-7fe7-673557157b46",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "32f58f2c-525d-4b09-86ba-0c6cb0baca28",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "00000000-0000-0000-0000-000000000000",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "3fa8e4fa-b436-4174-97ea-c6b7cd5c57b1",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "abec1cf3-1c0a-4a51-a281-c5f2b61e5fe2",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 0.0,
+                    "Material": "3c642923-f0ec-4df2-a918-8ac63d7b8d26",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "41b62f73-091c-4025-8c7b-b49d9d1f5385",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "23d0f6e2-8491-4e3d-bfd5-73b8e671f80c",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "9926ab15-fbe8-4ec6-8a0e-18a6aa0a5a70",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "292b191c-7dc3-4bc6-8e92-5b01ff5cf6b3",
+                    "MetallicTint": 0
+                }
+            ],
+            "EyeColor": "40200000-1111-1111-1111-111111111123",
+            "HairColor": "3ffe790a-9d47-4439-ad5c-d4e9e5561736",
+            "Icon": "",
+            "SecondEyeColor": "40200000-1111-1111-1111-111111111123",
+            "SkinColor": "1d239321-50bb-413f-869a-4c5cdf3388a2",
+            "Visuals": [
+                "3248f9d5-05cc-42f8-a111-772f894439a7",
+                "2fc6d8c1-7aa3-4850-bd02-5c71793ec1bb",
+                "06d99409-955b-474b-91ed-6fb8a69e3d3d",
+                "fd60b240-5c35-4da2-a4b7-7c0fb9fa5816",
+                "e218557c-9583-487c-86ad-0f2b56af91f3",
+                "38be22d9-9dad-45a0-a38a-e8ccc8ba1f4e",
+                "be72fe8d-a81a-4459-a637-344f4e508ac7",
+                "e4998190-4621-4de6-a49b-8e43d751c074",
+                "427012ca-9b18-424c-8ee9-a59ff55b152e",
+                "5caa0372-04ef-ac07-5973-cee0d8b0b3ad",
+                "7ba8f2bd-43dd-425f-bcc7-f62fd9ec9bff",
+                "45714916-c24d-4693-8c5c-c04c27476ebc",
+                "67c60298-fc25-1437-82b3-13251245a0ff",
+                "f38eb1dc-dca0-4134-9636-dc97c43b4fae"
+            ],
+            "field_98": ""
+        },
+        "CCStats": {
+            "BodyShape": 0,
+            "BodyType": 0,
+            "Race": "bdf9b779-002c-4077-b377-8ea7c1faa795",
+            "SubRace": "00000000-0000-0000-0000-000000000000"
+        }
+    },
+    "Dependencies": [
+        {
+            "fb93b259-a4eb-4894-b1c9-9f71e17ccac5": {
+                "ModName": "KAZSTRA Scarred Visage",
+                "Resources": [
+                    {
+                        "DisplayName": "KAZSTRA Scar 02",
+                        "ResourceUUID": "3fa8e4fa-b436-4174-97ea-c6b7cd5c57b1",
+                        "SlotName": "Material"
+                    }
+                ]
+            }
+        },
+        {
+            "96e19744-cf28-5223-b445-06471230386a": {
+                "ModName": "Myky's CC Color Collection",
+                "Resources": [
+                    {
+                        "DisplayName": "[myky] Orange (25,27)",
+                        "ResourceUUID": "d9581f8d-030b-88c1-3cf4-d8aacf80f26a",
+                        "SlotName": "Colour Definition"
+                    },
+                    {
+                        "DisplayName": "[myky] Orange (30,35)",
+                        "ResourceUUID": "f95cb395-a531-703a-7fe7-673557157b46",
+                        "SlotName": "Colour Definition"
+                    }
+                ]
+            }
+        },
+        {
+            "da4bbf23-f333-4af6-8b0c-ab348688e289": {
+                "ModName": "Meet Mythral",
+                "Resources": [
+                    {
+                        "DisplayName": "Mythral",
+                        "ResourceUUID": "2fc6d8c1-7aa3-4850-bd02-5c71793ec1bb",
+                        "SlotName": "Head"
+                    }
+                ]
+            }
+        },
+        {
+            "4cb0fd40-7212-4fe9-8733-9a8dbc6637ae": {
+                "ModName": "KAVT - KAZSTRA Virtual Tav x Tattoo, Makeup & Scar Extender",
+                "Resources": [
+                    {
+                        "DisplayName": "Makeup 9",
+                        "ResourceUUID": "66470b0a-6d9a-4b21-a3d7-d8f7179eb24d",
+                        "SlotName": "Material"
+                    }
+                ]
+            }
+        },
+        {
+            "0570792d-f161-433d-b7b9-a65c2bdd58db": {
+                "ModName": "KAZSTRA CC Body Tattoo Selector",
+                "Resources": [
+                    {
+                        "DisplayName": "KAZSTRA Tattoo 03",
+                        "ResourceUUID": "fe1f35b0-d07c-47ac-8f8e-8488d7b3410c",
+                        "SlotName": "Material"
+                    },
+                    {
+                        "DisplayName": "KAZSTRA Black",
+                        "ResourceUUID": "18163570-2e19-4884-9bf8-eaf7dcdbdc6d",
+                        "SlotName": "Material"
+                    }
+                ]
+            }
+        },
+        {
+            "8b92e235-759a-4285-b626-f17588a4f806": {
+                "ModName": "Eye colour expansion (Humanised)",
+                "Resources": [
+                    {
+                        "DisplayName": "Wolf 1 (HUM)",
+                        "ResourceUUID": "40200000-1111-1111-1111-111111111123",
+                        "SlotName": "Eye Colour"
+                    }
+                ]
+            }
+        },
+        {
+            "680b2b14-1663-0701-506a-c5c23c68247e": {
+                "ModName": "Myky's Hairstyles",
+                "Resources": [
+                    {
+                        "DisplayName": "[myky] Bangs_06_B",
+                        "ResourceUUID": "5caa0372-04ef-ac07-5973-cee0d8b0b3ad",
+                        "SlotName": "DragonbornJaw"
+                    },
+                    {
+                        "DisplayName": "Hornless",
+                        "ResourceUUID": "67c60298-fc25-1437-82b3-13251245a0ff",
+                        "SlotName": "Horns"
+                    }
+                ]
+            }
+        },
+        {
+            "79d2e528-8df6-b307-59d9-058aed9f9ac2": {
+                "ModName": "hijimare_hairs",
+                "Resources": [
+                    {
+                        "DisplayName": "Hiji Hair 51",
+                        "ResourceUUID": "e218557c-9583-487c-86ad-0f2b56af91f3",
+                        "SlotName": "Hair"
+                    },
+                    {
+                        "DisplayName": "Hiji Back 59",
+                        "ResourceUUID": "f38eb1dc-dca0-4134-9636-dc97c43b4fae",
+                        "SlotName": "DragonbornTop"
+                    }
+                ]
+            }
+        },
+        {
+            "c6167c45-fa70-47da-a389-653746dd151f": {
+                "ModName": "FurryTails - Fluffy Animal Tail Collection",
+                "Resources": [
+                    {
+                        "DisplayName": "No Tail",
+                        "ResourceUUID": "7ba8f2bd-43dd-425f-bcc7-f62fd9ec9bff",
+                        "SlotName": "Tail"
+                    }
+                ]
+            }
+        },
+        {
+            "acbca4c2-65c5-c042-7063-79f1efdd2f3a": {
+                "ModName": "A Gith Can Change Their Spots",
+                "Resources": [
+                    {
+                        "DisplayName": "Spots 6",
+                        "ResourceUUID": "5af4e969-f261-4ec1-9fc4-156bc0de2daf",
+                        "SlotName": "Material"
+                    }
+                ]
+            }
+        },
+        {
+            "85d64b7f-9a87-aeb1-bfdb-96fb031ae2cf": {
+                "ModName": "Kay's Hair Extensions",
+                "Resources": [
+                    {
+                        "DisplayName": "Arabel Half-Bun",
+                        "ResourceUUID": "45714916-c24d-4693-8c5c-c04c27476ebc",
+                        "SlotName": "DragonbornChin"
+                    }
+                ]
+            }
+        }
+    ],
+    "Name": "Varkis",
+    "SchemaVersion": "1.4.1.0",
+    "Version": "1.0",
+    "_id": "ab9e3441-5a9e-4004-b6e8-fb44a897625f"
+}

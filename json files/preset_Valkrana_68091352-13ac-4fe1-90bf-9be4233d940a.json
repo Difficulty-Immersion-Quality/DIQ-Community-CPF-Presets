@@ -1,0 +1,140 @@
+{
+    "Author": "Sailor Cat",
+    "Data": {
+        "CCAppearance": {
+            "AccessorySet": "",
+            "AdditionalChoices": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Elements": [
+                {
+                    "Color": "8f8019ae-4c7d-4871-8479-1219fbf6ba7e",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "667a22df-5efe-458e-9baa-4db06ae0226e",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "2d0b5625-5820-4e1e-a239-7c1ccfc2e1a0",
+                    "ColorIntensity": 0.8999999761581421,
+                    "GlossyTint": 0.0,
+                    "Material": "318ff3f1-b2c6-4097-b8c3-c48c29d22af5",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "00000000-0000-0000-0000-000000000000",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "f03b33ae-5d47-4cb5-80bc-ea06a3c55c96",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "38005887-5d4e-4604-8530-aceed30361f4",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "dbf4ab14-44c2-4ef9-b8be-35d1dfdd1c0f",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "a1c1106b-208f-4456-b298-e8578e6f3fe7",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "32f58f2c-525d-4b09-86ba-0c6cb0baca28",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "00000000-0000-0000-0000-000000000000",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "2ee4dee9-02e4-4814-8149-ce7eba5cdaea",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "7bb648fc-92d7-4473-860e-31c21afa280e",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 0.0,
+                    "Material": "3c642923-f0ec-4df2-a918-8ac63d7b8d26",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "41b62f73-091c-4025-8c7b-b49d9d1f5385",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "23d0f6e2-8491-4e3d-bfd5-73b8e671f80c",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "9926ab15-fbe8-4ec6-8a0e-18a6aa0a5a70",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "292b191c-7dc3-4bc6-8e92-5b01ff5cf6b3",
+                    "MetallicTint": 0
+                }
+            ],
+            "EyeColor": "7c0bd1cb-dbcc-407c-94a7-637e79127fc7",
+            "HairColor": "4c29b527-9b34-466c-9d88-33ffadebdebb",
+            "Icon": "",
+            "SecondEyeColor": "7c0bd1cb-dbcc-407c-94a7-637e79127fc7",
+            "SkinColor": "3c87a87a-7d8a-4092-9cf2-49dd2dde4f47",
+            "Visuals": [
+                "e1574434-42fc-474f-9d56-a63e73ef8efa",
+                "05c706bc-c038-464f-8bae-fac542523b18",
+                "d70fcb5a-bc51-43f9-b55c-1621e74374fd",
+                "bf42de20-4e5f-4d5c-b05b-09fa19c3f6a4",
+                "2dc870d9-c327-4279-ad52-c48a5ce8f98f"
+            ],
+            "field_98": ""
+        },
+        "CCStats": {
+            "BodyShape": 0,
+            "BodyType": 1,
+            "Race": "6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a",
+            "SubRace": "4fda6bce-0b91-4427-901f-690c2d091c47"
+        }
+    },
+    "Dependencies": [
+        {
+            "3a465e4f-7e54-4d7e-8338-c1a8f8e11d11": {
+                "ModName": "HW_WitcherHeads",
+                "Resources": [
+                    {
+                        "DisplayName": "- Triss -",
+                        "ResourceUUID": "d70fcb5a-bc51-43f9-b55c-1621e74374fd",
+                        "SlotName": "Head"
+                    }
+                ]
+            }
+        },
+        {
+            "bb888c67-b2fa-4adc-a258-eed3f05927c3": {
+                "ModName": "Eyepatch collection",
+                "Resources": [
+                    {
+                        "DisplayName": "KOF Eyepatch (Right)",
+                        "ResourceUUID": "05c706bc-c038-464f-8bae-fac542523b18",
+                        "SlotName": "Tail"
+                    }
+                ]
+            }
+        },
+        {
+            "85d64b7f-9a87-aeb1-bfdb-96fb031ae2cf": {
+                "ModName": "Kay's Hair Extensions",
+                "Resources": [
+                    {
+                        "DisplayName": "Kallisto Bangs",
+                        "ResourceUUID": "2dc870d9-c327-4279-ad52-c48a5ce8f98f",
+                        "SlotName": "DragonbornChin"
+                    }
+                ]
+            }
+        }
+    ],
+    "Name": "Valkrana",
+    "SchemaVersion": "1.4.1.0",
+    "Version": "1.0",
+    "_id": "68091352-13ac-4fe1-90bf-9be4233d940a"
+}

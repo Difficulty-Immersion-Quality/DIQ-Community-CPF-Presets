@@ -1,0 +1,198 @@
+{
+    "Author": "Public",
+    "Data": {
+        "CCAppearance": {
+            "AccessorySet": "",
+            "AdditionalChoices": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Elements": [
+                {
+                    "Color": "2fd79426-9b16-4aa8-85e6-92ac0742035a",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "00894ccc-31ee-4527-94d5-a408cccb3583",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "ffb2c651-12ad-429d-abb3-4230f09cb039",
+                    "ColorIntensity": 0.6000000238418579,
+                    "GlossyTint": 0.0,
+                    "Material": "1475396c-c2a1-4f81-9c1a-76e757712973",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "00000000-0000-0000-0000-000000000000",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "f03b33ae-5d47-4cb5-80bc-ea06a3c55c96",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "de0d5d04-a223-4024-8f2a-6ccec36af62e",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "dbf4ab14-44c2-4ef9-b8be-35d1dfdd1c0f",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "a1c1106b-208f-4456-b298-e8578e6f3fe7",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "32f58f2c-525d-4b09-86ba-0c6cb0baca28",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "00000000-0000-0000-0000-000000000000",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "5c6acf4c-0438-48ab-9e04-4dee7e88f8f7",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "ffb2c651-12ad-429d-abb3-4230f09cb039",
+                    "ColorIntensity": 0.40000006556510925,
+                    "GlossyTint": 0.0,
+                    "Material": "3c642923-f0ec-4df2-a918-8ac63d7b8d26",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "41b62f73-091c-4025-8c7b-b49d9d1f5385",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "23d0f6e2-8491-4e3d-bfd5-73b8e671f80c",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "9926ab15-fbe8-4ec6-8a0e-18a6aa0a5a70",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "292b191c-7dc3-4bc6-8e92-5b01ff5cf6b3",
+                    "MetallicTint": 0
+                }
+            ],
+            "EyeColor": "e61796af-ad39-4e75-9c6c-f72242e49a0c",
+            "HairColor": "00000000-0000-0000-0000-000000000000",
+            "Icon": "",
+            "SecondEyeColor": "8e1aade9-cba8-4059-8416-88dda59f783c",
+            "SkinColor": "d4f70cac-b477-4bc7-b953-271987fe48f1",
+            "Visuals": [
+                "097d5101-ea05-4a3d-baee-d5eebc0dcc1f",
+                "588e66ba-828a-427e-81d5-2c94e9cd2545",
+                "dfca33b3-6f9b-4dd4-bae3-aee71e25c576",
+                "e353b86b-db05-4cfc-9142-0395cefea52c",
+                "6fe8b37c-64e9-4908-b33c-771baa9b199a",
+                "a3f216b7-0a05-41f0-a816-123cfbf5a300",
+                "5148fa73-9afb-4f92-8a5a-15d25fb8d283"
+            ],
+            "field_98": ""
+        },
+        "CCStats": {
+            "BodyShape": 0,
+            "BodyType": 1,
+            "Race": "9c61a74a-20df-4119-89c5-d996956b6c66",
+            "SubRace": "cbe10ab9-11a6-450e-844a-175bcca25de7"
+        }
+    },
+    "Dependencies": [
+        {
+            "0571ff38-d7c9-f409-4591-33bb086c5f52": {
+                "ModName": "Vexa - Dark Urge Slayer Dragonborn CC",
+                "Resources": [
+                    {
+                        "DisplayName": "Vexa Scars L",
+                        "ResourceUUID": "dfca33b3-6f9b-4dd4-bae3-aee71e25c576",
+                        "SlotName": "Head"
+                    },
+                    {
+                        "DisplayName": "Chin None",
+                        "ResourceUUID": "6fe8b37c-64e9-4908-b33c-771baa9b199a",
+                        "SlotName": "DragonbornChin"
+                    }
+                ]
+            }
+        },
+        {
+            "a095fce4-a8c9-0e6c-1b17-5ee0dd04b21c": {
+                "ModName": "Dragonborn Extra Tabs - Horns and Hair",
+                "Resources": [
+                    {
+                        "DisplayName": "No Attachment",
+                        "ResourceUUID": "5148fa73-9afb-4f92-8a5a-15d25fb8d283",
+                        "SlotName": "Horns"
+                    }
+                ]
+            }
+        },
+        {
+            "4cb0fd40-7212-4fe9-8733-9a8dbc6637ae": {
+                "ModName": "KAVT - KAZSTRA Virtual Tav x Tattoo, Makeup & Scar Extender",
+                "Resources": [
+                    {
+                        "DisplayName": "No Tattoo",
+                        "ResourceUUID": "00894ccc-31ee-4527-94d5-a408cccb3583",
+                        "SlotName": "Material"
+                    },
+                    {
+                        "DisplayName": "KAZSTRA Makeup 04",
+                        "ResourceUUID": "1475396c-c2a1-4f81-9c1a-76e757712973",
+                        "SlotName": "Material"
+                    },
+                    {
+                        "DisplayName": "No Scar",
+                        "ResourceUUID": "5c6acf4c-0438-48ab-9e04-4dee7e88f8f7",
+                        "SlotName": "Material"
+                    }
+                ]
+            }
+        },
+        {
+            "3609a0b7-bd80-4e5f-9ecc-a73e281a0bc4": {
+                "ModName": "ASTRL Colorizer - Tattoo & Makeup Color Edits",
+                "Resources": [
+                    {
+                        "DisplayName": "ASTRL Red B",
+                        "ResourceUUID": "ffb2c651-12ad-429d-abb3-4230f09cb039",
+                        "SlotName": "Colour Definition"
+                    }
+                ]
+            }
+        },
+        {
+            "18119da1-cad4-6d77-73e9-3d3f8533b3ff": {
+                "ModName": "DMH Assets Vexa - Dark Urge Dragonborn CC",
+                "Resources": [
+                    {
+                        "DisplayName": "Mangled Arcuate",
+                        "ResourceUUID": "588e66ba-828a-427e-81d5-2c94e9cd2545",
+                        "SlotName": "DragonbornTop"
+                    },
+                    {
+                        "DisplayName": "Mangled Jaw",
+                        "ResourceUUID": "a3f216b7-0a05-41f0-a816-123cfbf5a300",
+                        "SlotName": "DragonbornJaw"
+                    }
+                ]
+            }
+        },
+        {
+            "3060ca1e-6a6a-079e-e999-7398f55bee4b": {
+                "ModName": "Durge's mangled head - Dark Urge Dragonborn CC",
+                "Resources": [
+                    {
+                        "DisplayName": "Mangled Tail Long R",
+                        "ResourceUUID": "097d5101-ea05-4a3d-baee-d5eebc0dcc1f",
+                        "SlotName": "Tail"
+                    }
+                ]
+            }
+        }
+    ],
+    "Name": "Caedos",
+    "SchemaVersion": "1.4.1.0",
+    "Version": "1.0",
+    "_id": "e22a284c-a28a-4965-b659-8853e646e776"
+}

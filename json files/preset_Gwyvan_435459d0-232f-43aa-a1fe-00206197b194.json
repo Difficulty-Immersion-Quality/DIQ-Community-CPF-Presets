@@ -1,0 +1,212 @@
+{
+    "Author": "Public",
+    "Data": {
+        "CCAppearance": {
+            "AccessorySet": "",
+            "AdditionalChoices": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Elements": [
+                {
+                    "Color": "cf2302ed-719d-4f64-836e-6449a1d2e676",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "667a22df-5efe-458e-9baa-4db06ae0226e",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "2d0b5625-5820-4e1e-a239-7c1ccfc2e1a0",
+                    "ColorIntensity": 0.8999999761581421,
+                    "GlossyTint": 0.0,
+                    "Material": "503bb196-fee7-4e1b-8a58-c09f48bdc9d1",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "18163570-2e19-4884-9bf8-eaf7dcdbdc6d",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "0a966da2-f062-40b6-a37f-a11dcd332eea",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "de0d5d04-a223-4024-8f2a-6ccec36af62e",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "dbf4ab14-44c2-4ef9-b8be-35d1dfdd1c0f",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "509e4a17-ea4c-47f2-8a3b-67f9c1a7d3f6",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "32f58f2c-525d-4b09-86ba-0c6cb0baca28",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "00000000-0000-0000-0000-000000000000",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "5c6acf4c-0438-48ab-9e04-4dee7e88f8f7",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "7bb648fc-92d7-4473-860e-31c21afa280e",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 0.0,
+                    "Material": "3c642923-f0ec-4df2-a918-8ac63d7b8d26",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "41b62f73-091c-4025-8c7b-b49d9d1f5385",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "23d0f6e2-8491-4e3d-bfd5-73b8e671f80c",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "9926ab15-fbe8-4ec6-8a0e-18a6aa0a5a70",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "292b191c-7dc3-4bc6-8e92-5b01ff5cf6b3",
+                    "MetallicTint": 0
+                }
+            ],
+            "EyeColor": "7fb2f5fa-216d-449e-adf7-eb11f847fa7c",
+            "HairColor": "b012bbd4-b08b-6945-0de3-8bbcc9bf5cc8",
+            "Icon": "",
+            "SecondEyeColor": "7fb2f5fa-216d-449e-adf7-eb11f847fa7c",
+            "SkinColor": "5e1f074a-3f37-4d60-b491-9ab39b681fc5",
+            "Visuals": [
+                "37cace02-82b8-4c20-a5b5-0f3ab1716153",
+                "eb64321c-1697-47c6-980c-ad4c694757ef",
+                "06d99409-955b-474b-91ed-6fb8a69e3d3d",
+                "64347b0f-520d-405e-9b2d-0a2af91c0684",
+                "9f634b43-4106-4e2a-bbfe-b924dcc891d7",
+                "33fb7410-0373-44ce-8652-4a213e1dc470",
+                "38be22d9-9dad-45a0-a38a-e8ccc8ba1f4e",
+                "f08fab87-7326-4730-9071-70a0ef39599a",
+                "1bcd11f3-5660-4c21-9f9a-27264dee415a"
+            ],
+            "field_98": ""
+        },
+        "CCStats": {
+            "BodyShape": 0,
+            "BodyType": 0,
+            "Race": "4f5d1434-5175-4fa9-b7dc-ab24fba37929",
+            "SubRace": "4d30b4f9-7bb2-4fc2-a7bc-080f116e325a"
+        }
+    },
+    "Dependencies": [
+        {
+            "ca525ed8-fe32-6f11-2987-2695f4e49023": {
+                "ModName": "NF_2_GalePiercings",
+                "Resources": [
+                    {
+                        "DisplayName": "Set 9 Sword L",
+                        "ResourceUUID": "f08fab87-7326-4730-9071-70a0ef39599a",
+                        "SlotName": "Piercing"
+                    },
+                    {
+                        "DisplayName": "Set 9 Sword R",
+                        "ResourceUUID": "1bcd11f3-5660-4c21-9f9a-27264dee415a",
+                        "SlotName": "Piercing"
+                    }
+                ]
+            }
+        },
+        {
+            "7a741e61-cf7c-46cc-b1b5-b67fbefd2ff4": {
+                "ModName": "ASTRL Hair Color Collection",
+                "Resources": [
+                    {
+                        "DisplayName": "ASTRL DBL Platinum Ice",
+                        "ResourceUUID": "b012bbd4-b08b-6945-0de3-8bbcc9bf5cc8",
+                        "SlotName": "Hair Colour"
+                    }
+                ]
+            }
+        },
+        {
+            "d1ab3a2a-7a87-4154-b982-e08aa28ec25d": {
+                "ModName": "Klitschkat Hairs",
+                "Resources": [
+                    {
+                        "DisplayName": "Sephiroth (Klitschkat)",
+                        "ResourceUUID": "64347b0f-520d-405e-9b2d-0a2af91c0684",
+                        "SlotName": "Hair"
+                    }
+                ]
+            }
+        },
+        {
+            "c6167c45-fa70-47da-a389-653746dd151f": {
+                "ModName": "FurryTails - Fluffy Animal Tail Collection",
+                "Resources": [
+                    {
+                        "DisplayName": "No Tail",
+                        "ResourceUUID": "9f634b43-4106-4e2a-bbfe-b924dcc891d7",
+                        "SlotName": "Tail"
+                    }
+                ]
+            }
+        },
+        {
+            "4cb0fd40-7212-4fe9-8733-9a8dbc6637ae": {
+                "ModName": "KAVT - KAZSTRA Virtual Tav x Tattoo, Makeup & Scar Extender",
+                "Resources": [
+                    {
+                        "DisplayName": "Tattoo 21",
+                        "ResourceUUID": "667a22df-5efe-458e-9baa-4db06ae0226e",
+                        "SlotName": "Material"
+                    },
+                    {
+                        "DisplayName": "Makeup 1",
+                        "ResourceUUID": "503bb196-fee7-4e1b-8a58-c09f48bdc9d1",
+                        "SlotName": "Material"
+                    },
+                    {
+                        "DisplayName": "No Scar",
+                        "ResourceUUID": "5c6acf4c-0438-48ab-9e04-4dee7e88f8f7",
+                        "SlotName": "Material"
+                    }
+                ]
+            }
+        },
+        {
+            "0b069063-5304-4cce-949d-96626be3530a": {
+                "ModName": "Dark Urges - Standalone",
+                "Resources": [
+                    {
+                        "DisplayName": "Guts",
+                        "ResourceUUID": "eb64321c-1697-47c6-980c-ad4c694757ef",
+                        "SlotName": "Head"
+                    }
+                ]
+            }
+        },
+        {
+            "0570792d-f161-433d-b7b9-a65c2bdd58db": {
+                "ModName": "KAZSTRA CC Body Tattoo Selector",
+                "Resources": [
+                    {
+                        "DisplayName": "KAZSTRA Tattoo 04",
+                        "ResourceUUID": "0a966da2-f062-40b6-a37f-a11dcd332eea",
+                        "SlotName": "Material"
+                    },
+                    {
+                        "DisplayName": "KAZSTRA Black",
+                        "ResourceUUID": "18163570-2e19-4884-9bf8-eaf7dcdbdc6d",
+                        "SlotName": "Material"
+                    }
+                ]
+            }
+        }
+    ],
+    "Name": "Gwyvan",
+    "SchemaVersion": "1.4.1.0",
+    "Version": "1.0",
+    "_id": "435459d0-232f-43aa-a1fe-00206197b194"
+}

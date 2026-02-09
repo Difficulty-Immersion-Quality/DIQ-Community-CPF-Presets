@@ -1,0 +1,260 @@
+{
+    "Author": "dannway",
+    "Data": {
+        "CCAppearance": {
+            "AccessorySet": "",
+            "AdditionalChoices": [
+                0.0,
+                0.8600000143051147,
+                0.0,
+                0.10000000149011612
+            ],
+            "Elements": [
+                {
+                    "Color": "b859dd0b-d42a-47ff-8288-efe3260957ca",
+                    "ColorIntensity": 0.17307224869728088,
+                    "GlossyTint": 1.0,
+                    "Material": "3f598983-1e57-474e-b677-d51b47c90402",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "ce595048-8b07-4681-875e-563f6d6b2648",
+                    "ColorIntensity": 0.37179112434387207,
+                    "GlossyTint": 1.0,
+                    "Material": "1d303c79-af5e-44a0-b30d-6992abd2ae7d",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "18163570-2e19-4884-9bf8-eaf7dcdbdc6d",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "82811c55-acc9-4f8f-8127-2f3439bd05e4",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "2d0b5625-5820-4e1e-a239-7c1ccfc2e1a0",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "dbf4ab14-44c2-4ef9-b8be-35d1dfdd1c0f",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "9b6db99a-29ff-42e1-aa47-252b87297be8",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "32f58f2c-525d-4b09-86ba-0c6cb0baca28",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "00000000-0000-0000-0000-000000000000",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "5c6acf4c-0438-48ab-9e04-4dee7e88f8f7",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "7bb648fc-92d7-4473-860e-31c21afa280e",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "3c642923-f0ec-4df2-a918-8ac63d7b8d26",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "41b62f73-091c-4025-8c7b-b49d9d1f5385",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "23d0f6e2-8491-4e3d-bfd5-73b8e671f80c",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "9926ab15-fbe8-4ec6-8a0e-18a6aa0a5a70",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "292b191c-7dc3-4bc6-8e92-5b01ff5cf6b3",
+                    "MetallicTint": 0
+                }
+            ],
+            "EyeColor": "92a6d6bd-b7d7-4c89-ab4b-7e41b182377a",
+            "HairColor": "2e3cbdbb-5854-4c64-b560-db37465c697a",
+            "Icon": "",
+            "SecondEyeColor": "92a6d6bd-b7d7-4c89-ab4b-7e41b182377a",
+            "SkinColor": "31ff67a6-a1ae-a1f2-3548-e504f4fa24ec",
+            "Visuals": [
+                "c27f40f8-37c4-43fa-b861-62edc35632d3",
+                "06d99409-955b-474b-91ed-6fb8a69e3d3d",
+                "2536df90-05ea-492e-8fc9-33cd74a7f0cd",
+                "a1a5e893-8602-40bb-90d7-9cea8b6c54c1",
+                "1456418e-721a-4bdd-a1dc-9481f22b1b3b",
+                "4dea8b1a-46e5-43e5-93f4-6ddc74b96d6a",
+                "67c60298-fc25-1437-82b3-13251245a0ff",
+                "ab9cff6a-5faa-41ce-b17a-3b0f1a37dec5",
+                "31929308-2992-f623-a0fd-d8ff6627ebe4",
+                "94aa60f5-2e6e-248c-6681-de1310d616a1",
+                "79c1bb91-b6ed-e783-ee6c-a2eea951b0f0",
+                "67ef8d6f-f2b3-9a80-aa74-fc4a3a5d4d61",
+                "e0f68e98-0de0-494f-a9cf-cbc98bdbca94"
+            ],
+            "field_98": ""
+        },
+        "CCStats": {
+            "BodyShape": 0,
+            "BodyType": 1,
+            "Race": "45f4ac10-3c89-4fb2-b37d-f973bb9110c0",
+            "SubRace": "30fafb0b-7c8b-4917-bd2a-536233b35d3c"
+        }
+    },
+    "Dependencies": [
+        {
+            "b5377116-0017-69b4-059e-79c488f86889": {
+                "ModName": "Myky's Tintable Piercings - AIO",
+                "Resources": [
+                    {
+                        "DisplayName": "[myky] Moon_01",
+                        "ResourceUUID": "31929308-2992-f623-a0fd-d8ff6627ebe4",
+                        "SlotName": "Piercing"
+                    },
+                    {
+                        "DisplayName": "[myky] Moon_01",
+                        "ResourceUUID": "94aa60f5-2e6e-248c-6681-de1310d616a1",
+                        "SlotName": "Piercing"
+                    },
+                    {
+                        "DisplayName": "[myky] Stud_Star_02",
+                        "ResourceUUID": "79c1bb91-b6ed-e783-ee6c-a2eea951b0f0",
+                        "SlotName": "Piercing"
+                    },
+                    {
+                        "DisplayName": "[myky] Stud_Star_02",
+                        "ResourceUUID": "67ef8d6f-f2b3-9a80-aa74-fc4a3a5d4d61",
+                        "SlotName": "Piercing"
+                    }
+                ]
+            }
+        },
+        {
+            "4cb0fd40-7212-4fe9-8733-9a8dbc6637ae": {
+                "ModName": "KAVT - KAZSTRA Virtual Tav x Tattoo, Makeup & Scar Extender",
+                "Resources": [
+                    {
+                        "DisplayName": "Tattoo 01",
+                        "ResourceUUID": "3f598983-1e57-474e-b677-d51b47c90402",
+                        "SlotName": "Material"
+                    },
+                    {
+                        "DisplayName": "Makeup 8",
+                        "ResourceUUID": "1d303c79-af5e-44a0-b30d-6992abd2ae7d",
+                        "SlotName": "Material"
+                    },
+                    {
+                        "DisplayName": "No Scar",
+                        "ResourceUUID": "5c6acf4c-0438-48ab-9e04-4dee7e88f8f7",
+                        "SlotName": "Material"
+                    }
+                ]
+            }
+        },
+        {
+            "680b2b14-1663-0701-506a-c5c23c68247e": {
+                "ModName": "Myky's Hairstyles",
+                "Resources": [
+                    {
+                        "DisplayName": "Hornless",
+                        "ResourceUUID": "67c60298-fc25-1437-82b3-13251245a0ff",
+                        "SlotName": "Horns"
+                    }
+                ]
+            }
+        },
+        {
+            "c6167c45-fa70-47da-a389-653746dd151f": {
+                "ModName": "FurryTails - Fluffy Animal Tail Collection",
+                "Resources": [
+                    {
+                        "DisplayName": "No Tail",
+                        "ResourceUUID": "a1a5e893-8602-40bb-90d7-9cea8b6c54c1",
+                        "SlotName": "Tail"
+                    }
+                ]
+            }
+        },
+        {
+            "c56e4b79-3bf3-446b-b06b-27dc86337663": {
+                "ModName": "Silver's Hair Pack 2",
+                "Resources": [
+                    {
+                        "DisplayName": "Silver's Hair 9b",
+                        "ResourceUUID": "ab9cff6a-5faa-41ce-b17a-3b0f1a37dec5",
+                        "SlotName": "Hair"
+                    }
+                ]
+            }
+        },
+        {
+            "4623265f-72aa-4bdb-b402-92e1ee3f055d": {
+                "ModName": "Origin Skin Eye and Haircolors Unlocked",
+                "Resources": [
+                    {
+                        "DisplayName": "Shadowheart Silver",
+                        "ResourceUUID": "2e3cbdbb-5854-4c64-b560-db37465c697a",
+                        "SlotName": "Hair Colour"
+                    }
+                ]
+            }
+        },
+        {
+            "5d7d9875-aaff-49e6-b9d7-af68a5005fa7": {
+                "ModName": "Origin Gods AEE",
+                "Resources": [
+                    {
+                        "DisplayName": "Shadowheart Head",
+                        "ResourceUUID": "2536df90-05ea-492e-8fc9-33cd74a7f0cd",
+                        "SlotName": "Head"
+                    }
+                ]
+            }
+        },
+        {
+            "6ce5b0cc-9478-908f-193b-2e25586a8ff3": {
+                "ModName": "Ezuneo's Face Horns and Feathers",
+                "Resources": [
+                    {
+                        "DisplayName": "None",
+                        "ResourceUUID": "c27f40f8-37c4-43fa-b861-62edc35632d3",
+                        "SlotName": "DragonbornJaw"
+                    },
+                    {
+                        "DisplayName": "None",
+                        "ResourceUUID": "1456418e-721a-4bdd-a1dc-9481f22b1b3b",
+                        "SlotName": "DragonbornTop"
+                    },
+                    {
+                        "DisplayName": "None",
+                        "ResourceUUID": "4dea8b1a-46e5-43e5-93f4-6ddc74b96d6a",
+                        "SlotName": "DragonbornChin"
+                    }
+                ]
+            }
+        },
+        {
+            "0570792d-f161-433d-b7b9-a65c2bdd58db": {
+                "ModName": "KAZSTRA CC Body Tattoo Selector",
+                "Resources": [
+                    {
+                        "DisplayName": "KAZSTRA No Tattoo",
+                        "ResourceUUID": "82811c55-acc9-4f8f-8127-2f3439bd05e4",
+                        "SlotName": "Material"
+                    },
+                    {
+                        "DisplayName": "KAZSTRA Black",
+                        "ResourceUUID": "18163570-2e19-4884-9bf8-eaf7dcdbdc6d",
+                        "SlotName": "Material"
+                    }
+                ]
+            }
+        }
+    ],
+    "Name": "Soft Shadowheart",
+    "SchemaVersion": "1.4.1.0",
+    "Version": "1.0",
+    "_id": "5d140866-5c4e-4220-96b9-7112f2317882"
+}

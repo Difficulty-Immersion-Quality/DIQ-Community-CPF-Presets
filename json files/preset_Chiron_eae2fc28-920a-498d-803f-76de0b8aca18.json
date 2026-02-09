@@ -1,0 +1,242 @@
+{
+    "Author": "WORMS!",
+    "Data": {
+        "CCAppearance": {
+            "AccessorySet": "",
+            "AdditionalChoices": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Elements": [
+                {
+                    "Color": "8f8019ae-4c7d-4871-8479-1219fbf6ba7e",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "791c8b61-8152-4f67-be12-414cb2e0ca81",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "2d0b5625-5820-4e1e-a239-7c1ccfc2e1a0",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 0.0,
+                    "Material": "66470b0a-6d9a-4b21-a3d7-d8f7179eb24d",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "18163570-2e19-4884-9bf8-eaf7dcdbdc6d",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "92431995-049a-4421-9194-5f57e1e6e02e",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "36b85265-4907-4c51-b141-49dfc2aa0f2f",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "dbf4ab14-44c2-4ef9-b8be-35d1dfdd1c0f",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "509e4a17-ea4c-47f2-8a3b-67f9c1a7d3f6",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "32f58f2c-525d-4b09-86ba-0c6cb0baca28",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "00000000-0000-0000-0000-000000000000",
+                    "ColorIntensity": 1.0,
+                    "GlossyTint": 1.0,
+                    "Material": "21788dbd-4ddd-4889-a0ab-bfb05d1f9348",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "7bb648fc-92d7-4473-860e-31c21afa280e",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 0.0,
+                    "Material": "3c642923-f0ec-4df2-a918-8ac63d7b8d26",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "41b62f73-091c-4025-8c7b-b49d9d1f5385",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "23d0f6e2-8491-4e3d-bfd5-73b8e671f80c",
+                    "MetallicTint": 0
+                },
+                {
+                    "Color": "9926ab15-fbe8-4ec6-8a0e-18a6aa0a5a70",
+                    "ColorIntensity": 0.0,
+                    "GlossyTint": 1.0,
+                    "Material": "292b191c-7dc3-4bc6-8e92-5b01ff5cf6b3",
+                    "MetallicTint": 0
+                }
+            ],
+            "EyeColor": "42000000-1111-1111-1111-111111111113",
+            "HairColor": "e0c08a91-4c61-4091-b867-f97252780252",
+            "Icon": "",
+            "SecondEyeColor": "42000000-1111-1111-1111-111111111113",
+            "SkinColor": "005ded16-2d48-60f5-89f3-d7f3a5eb5149",
+            "Visuals": [
+                "22159fb0-3ae1-4eb8-8278-a2b4ce4cc745",
+                "62d8aae9-c73c-4a19-8a0c-8fdf6978cb9c",
+                "300de70c-ffaf-4b96-a2f2-9cdd1ca7bade",
+                "fd7fbb5e-9396-4407-80b7-4b9e4852c2c1",
+                "dcb94361-1781-4454-80f9-e00f7d56cdbd",
+                "bc89362d-a1c9-4daf-ae92-704126729032",
+                "40e2c808-c20b-488c-8a61-4bcc578775fc",
+                "eedd1d85-afa8-45aa-bc90-918353611602"
+            ],
+            "field_98": ""
+        },
+        "CCStats": {
+            "BodyShape": 0,
+            "BodyType": 0,
+            "Race": "0ab2874d-cfdc-405e-8a97-d37bfbb23c52",
+            "SubRace": "fe584d14-71ea-4bee-8ba0-99f780d4c957"
+        }
+    },
+    "Dependencies": [
+        {
+            "a719abd8-3ede-4f72-b1db-7686be26c8e5": {
+                "ModName": "big dwarven beards_AIO",
+                "Resources": [
+                    {
+                        "DisplayName": "Dark Iron",
+                        "ResourceUUID": "dcb94361-1781-4454-80f9-e00f7d56cdbd",
+                        "SlotName": "Beard"
+                    }
+                ]
+            }
+        },
+        {
+            "fb93b259-a4eb-4894-b1c9-9f71e17ccac5": {
+                "ModName": "KAZSTRA Scarred Visage",
+                "Resources": [
+                    {
+                        "DisplayName": "KAZSTRA Scar 14",
+                        "ResourceUUID": "21788dbd-4ddd-4889-a0ab-bfb05d1f9348",
+                        "SlotName": "Material"
+                    }
+                ]
+            }
+        },
+        {
+            "0ca0abef-f30a-40de-b8ef-e21a5868c498": {
+                "ModName": "Ghouls Customization Compendium",
+                "Resources": [
+                    {
+                        "DisplayName": "[GCC] Warrior Stripe",
+                        "ResourceUUID": "fd7fbb5e-9396-4407-80b7-4b9e4852c2c1",
+                        "SlotName": "Hair"
+                    }
+                ]
+            }
+        },
+        {
+            "192f57e4-a961-47be-ab94-e70042f9d211": {
+                "ModName": "Horns of Faerun",
+                "Resources": [
+                    {
+                        "DisplayName": "Horns 03 Accessories (HoF)",
+                        "ResourceUUID": "40e2c808-c20b-488c-8a61-4bcc578775fc",
+                        "SlotName": "Horns"
+                    }
+                ]
+            }
+        },
+        {
+            "0570792d-f161-433d-b7b9-a65c2bdd58db": {
+                "ModName": "KAZSTRA CC Body Tattoo Selector",
+                "Resources": [
+                    {
+                        "DisplayName": "KAZSTRA Tattoo 07",
+                        "ResourceUUID": "92431995-049a-4421-9194-5f57e1e6e02e",
+                        "SlotName": "Material"
+                    },
+                    {
+                        "DisplayName": "KAZSTRA Black",
+                        "ResourceUUID": "18163570-2e19-4884-9bf8-eaf7dcdbdc6d",
+                        "SlotName": "Material"
+                    }
+                ]
+            }
+        },
+        {
+            "4cb0fd40-7212-4fe9-8733-9a8dbc6637ae": {
+                "ModName": "KAVT - KAZSTRA Virtual Tav x Tattoo, Makeup & Scar Extender",
+                "Resources": [
+                    {
+                        "DisplayName": "Tattoo 12",
+                        "ResourceUUID": "791c8b61-8152-4f67-be12-414cb2e0ca81",
+                        "SlotName": "Material"
+                    },
+                    {
+                        "DisplayName": "Makeup 9",
+                        "ResourceUUID": "66470b0a-6d9a-4b21-a3d7-d8f7179eb24d",
+                        "SlotName": "Material"
+                    }
+                ]
+            }
+        },
+        {
+            "31a373b2-5943-4a22-8aa5-410ca33792a5": {
+                "ModName": "ASTRL Wondrous Skintones",
+                "Resources": [
+                    {
+                        "DisplayName": "ASTRL Diseased 18",
+                        "ResourceUUID": "005ded16-2d48-60f5-89f3-d7f3a5eb5149",
+                        "SlotName": "Skin Colour"
+                    }
+                ]
+            }
+        },
+        {
+            "79d2e528-8df6-b307-59d9-058aed9f9ac2": {
+                "ModName": "hijimare_hairs",
+                "Resources": [
+                    {
+                        "DisplayName": "Hiji Base 58",
+                        "ResourceUUID": "62d8aae9-c73c-4a19-8a0c-8fdf6978cb9c",
+                        "SlotName": "DragonbornChin"
+                    },
+                    {
+                        "DisplayName": "Hiji Back 27",
+                        "ResourceUUID": "bc89362d-a1c9-4daf-ae92-704126729032",
+                        "SlotName": "DragonbornTop"
+                    }
+                ]
+            }
+        },
+        {
+            "7624f300-8a91-4878-8765-da7ac4f4ca9a": {
+                "ModName": "Eye colour expansion (Core)",
+                "Resources": [
+                    {
+                        "DisplayName": "Frog 2",
+                        "ResourceUUID": "42000000-1111-1111-1111-111111111113",
+                        "SlotName": "Eye Colour"
+                    }
+                ]
+            }
+        },
+        {
+            "0ab9e889-3e9a-4f71-be60-ce33aedbeae7": {
+                "ModName": "Trips' Accessories",
+                "Resources": [
+                    {
+                        "DisplayName": "Coiled Septum",
+                        "ResourceUUID": "22159fb0-3ae1-4eb8-8278-a2b4ce4cc745",
+                        "SlotName": "Piercing"
+                    }
+                ]
+            }
+        }
+    ],
+    "Name": "Chiron",
+    "SchemaVersion": "1.4.1.0",
+    "Version": "1.0",
+    "_id": "eae2fc28-920a-498d-803f-76de0b8aca18"
+}
